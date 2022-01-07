@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\EmployeeDay9\EmployeeDay9\bin\Debug\netcoreapp3.1\EmployeeDay9.exe
+C:\Users\hp\source\repos\EmployeeDay9\EmployeeDay9\bin\Debug\netcoreapp3.1\EmployeeDay9.deps.json
+C:\Users\hp\source\repos\EmployeeDay9\EmployeeDay9\bin\Debug\netcoreapp3.1\EmployeeDay9.runtimeconfig.json
+C:\Users\hp\source\repos\EmployeeDay9\EmployeeDay9\bin\Debug\netcoreapp3.1\EmployeeDay9.runtimeconfig.dev.json
+C:\Users\hp\source\repos\EmployeeDay9\EmployeeDay9\bin\Debug\netcoreapp3.1\EmployeeDay9.dll
+C:\Users\hp\source\repos\EmployeeDay9\EmployeeDay9\bin\Debug\netcoreapp3.1\EmployeeDay9.pdb
+C:\Users\hp\source\repos\EmployeeDay9\EmployeeDay9\obj\Debug\netcoreapp3.1\EmployeeDay9.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\EmployeeDay9\EmployeeDay9\obj\Debug\netcoreapp3.1\EmployeeDay9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\EmployeeDay9\EmployeeDay9\obj\Debug\netcoreapp3.1\EmployeeDay9.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\EmployeeDay9\EmployeeDay9\obj\Debug\netcoreapp3.1\EmployeeDay9.AssemblyInfo.cs
+C:\Users\hp\source\repos\EmployeeDay9\EmployeeDay9\obj\Debug\netcoreapp3.1\EmployeeDay9.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\EmployeeDay9\EmployeeDay9\obj\Debug\netcoreapp3.1\EmployeeDay9.dll
+C:\Users\hp\source\repos\EmployeeDay9\EmployeeDay9\obj\Debug\netcoreapp3.1\EmployeeDay9.pdb
+C:\Users\hp\source\repos\EmployeeDay9\EmployeeDay9\obj\Debug\netcoreapp3.1\EmployeeDay9.genruntimeconfig.cache
